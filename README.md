@@ -3,11 +3,11 @@
 ![Screenshot 2023-10-17 104110](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/77574252-aef0-44dd-adb1-54065ca9743f)
 ![Screenshot 2023-10-17 104512](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/146d9c0a-1ba4-45d2-bc6b-7daa6d450a98)
 ![Screenshot 2023-10-17 104448](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/d4b929fd-15c1-47ce-9d02-42cde9082915)
+Admin Page:
 ![Screenshot 2023-10-17 104430](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/bc6c7b1e-457f-4bfb-8fe7-fdc01263f88f)
-
-Home Page:
-![Screenshot 2023-10-17 104410](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/43e50386-d950-4541-9c62-f9adc1903d75)
 AboutUs Page:
+![Screenshot 2023-10-17 104410](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/43e50386-d950-4541-9c62-f9adc1903d75)
+Home Page:
 ![Screenshot 2023-10-17 104347](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/b52727c0-4e60-4a25-b00c-f5ceab7b98de)
 
 
