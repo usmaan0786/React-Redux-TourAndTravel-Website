@@ -1,5 +1,20 @@
 # Description
 
+Here's a quick tour of what the app brings to the table:
+- 🌟 A dynamic navigation system, allowing users to effortlessly switch between pages.
+- 🏝️ "Destinations" page featuring a collection of places fetched from an API.
+- 🛠️ An "Admin" page for all your CRUD operations.
+- ➕ A handy create pop-up for adding new places to your list.
+- ✏️ An "Edit Destinations" page for easy edits and a delete button to say farewell to places, with changes instantly reflected on the "Destinations" page.
+
+From the code perspective, we've harnessed a variety of powerful tools:
+- 🔗 Props and routing for seamless page navigation.
+- ⚙️ Hooks like useState, useEffect, useParams, and useNavigate for a responsive and interactive user experience.
+- 📡 `createAsyncThunk` to handle asynchronous API requests.
+- 🔄 A Redux slice powered by @reduxjs/toolkit for managing your collection of "places."
+- 🔄 Reducer logic ensuring our state stays in sync with the outcomes of API operations.
+
+
 
 
 
@@ -22,6 +37,8 @@ API:
 ![image](https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/d6195994-5ce8-4087-a1f7-ae8fe52d26a9)
 
 # Project-Video
+
+https://github.com/usmaan0786/React-Redux-TourAndTravel-Website/assets/72275107/31a76280-1f60-4883-b5cc-7aa98667b836
 
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
