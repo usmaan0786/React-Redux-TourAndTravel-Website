@@ -1,0 +1,67 @@
+{
+  "places": [
+    {
+      "id": 2,
+      "name": "Abbotabad",
+      "category": "hills",
+      "price": 20,
+      "image": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG1vdW50YWluc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 1.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis."
+    },
+    {
+      "id": 3,
+      "name": "naran",
+      "category": "mountains",
+      "price": 60,
+      "image": "https://images.unsplash.com/photo-1434394354979-a235cd36269d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1vdW50YWluc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 4.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis."
+    },
+    {
+      "id": 4,
+      "name": "nori waterfall",
+      "category": "waterfall",
+      "price": 45,
+      "image": "https://images.unsplash.com/photo-1540390769625-2fc3f8b1d50c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fG1vdW50YWluc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis."
+    },
+    {
+      "id": 5,
+      "name": "baltoro  ",
+      "category": "glaciers",
+      "price": 40,
+      "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fG1vdW50YWluc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 3.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis."
+    },
+    {
+      "id": 6,
+      "name": "kaghan",
+      "category": "mountains",
+      "price": 20,
+      "image": "https://images.unsplash.com/34/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fG1vdW50YWluc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 3.5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis."
+    },
+    {
+      "name": "Muree",
+      "category": "Mountains",
+      "price": "32",
+      "rating": "2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis.",
+      "image": "https://images.unsplash.com/photo-1682465340899-529c12b3b968?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bXVyZWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 9
+    },
+    {
+      "name": "Havelian",
+      "category": "plain",
+      "price": "19",
+      "rating": "2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac neque eu libero lacinia vulputate. Cras non velit vel justo varius convallis.",
+      "image": "https://images.unsplash.com/photo-1422466654108-5e533f591881?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGxhaW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 10
+    }
+  ]
+}
